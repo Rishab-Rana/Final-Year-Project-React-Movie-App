@@ -1,5 +1,5 @@
-import React, { useState, useEffect, useCallback } from 'react';
-import { useHistory, useParams } from 'react-router';
+import React, { useState, useEffect, useCallback } from 'react'; 
+import { useHistory, useParams } from 'react-router'; 
 
 import './movie-grid.scss';
 
