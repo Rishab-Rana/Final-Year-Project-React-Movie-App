@@ -17,6 +17,7 @@ function App() {
                     <Header {...props}/>
                     <Routes/>
                     <Footer/>
+                    <h1>Designed by Rishab</h1>
                 </>
             )}/>
         </BrowserRouter>
