@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Final-Year-Project-React-Movie-App/static/css/main.baffd727.chunk.css",
-    "main.js": "/Final-Year-Project-React-Movie-App/static/js/main.f38182ff.chunk.js",
-    "main.js.map": "/Final-Year-Project-React-Movie-App/static/js/main.f38182ff.chunk.js.map",
+    "main.js": "/Final-Year-Project-React-Movie-App/static/js/main.19720875.chunk.js",
+    "main.js.map": "/Final-Year-Project-React-Movie-App/static/js/main.19720875.chunk.js.map",
     "runtime-main.js": "/Final-Year-Project-React-Movie-App/static/js/runtime-main.547d0df4.js",
     "runtime-main.js.map": "/Final-Year-Project-React-Movie-App/static/js/runtime-main.547d0df4.js.map",
     "static/css/2.2894c9e2.chunk.css": "/Final-Year-Project-React-Movie-App/static/css/2.2894c9e2.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.2894c9e2.chunk.css",
     "static/js/2.feb7ce08.chunk.js",
     "static/css/main.baffd727.chunk.css",
-    "static/js/main.f38182ff.chunk.js"
+    "static/js/main.19720875.chunk.js"
   ]
 }
